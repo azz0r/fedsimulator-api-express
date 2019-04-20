@@ -1,10 +1,14 @@
 "use strict";
 const express = require("express");
 const serverless = require("serverless-http");
-const app = express();
-
+const cors = require('cors');
 const bodyParser = require("body-parser");
 const fs = require("fs");
+
+const app = express();
+
+app.use(cors())
+
 const router = express.Router();
 
 router.get('/', (req, res) => {
@@ -32,8 +36,9 @@ router.get('/wrestlers', (req, res) => {
 });
 router.post('/', (req, res) => res.json({ postBody: req.body }));
 
-app.use(router);
+app.use('/', router);
 app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/.netlify/functions/server', router);  // path must route to lambda
 
 module.exports = app;
