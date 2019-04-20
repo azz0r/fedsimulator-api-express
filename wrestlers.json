@@ -1,0 +1,1001 @@
+[{
+    "id": "j9mr6qak",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Akira Tozawa",
+    "points": 76
+},
+{
+    "id": "j9mr6qam",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Cedric Alexander",
+    "points": 60
+},
+{
+    "id": "j9mr6qar",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Drew Gulak",
+    "points": 50
+},
+{
+    "id": "j9mr6qb9",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Jack Gallagher",
+    "points": 63
+},
+{
+    "id": "j9mr6qbb",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Gran Metalik",
+    "points": 69
+},
+{
+    "id": "j9mr6qbd",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Kalisto",
+    "points": 77
+},
+{
+    "id": "j9mr6qbe",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Ariya Daivari",
+    "points": 58
+},
+{
+    "id": "j9mr6qbj",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Brian Kendrick",
+    "points": 59
+},
+{
+    "id": "j9mr6qbk",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Tony Nese",
+    "championshipId": "j9nfpobh",
+    "points": 78
+},
+{
+    "id": "j9ms1xjc",
+    "brandId": "TFL",
+    "male": true,
+    "name": "Lince Dorado",
+    "points": 56
+},
+{
+    "id": "j9msb3ot",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Mustafa Ali",
+    "points": 40
+},
+{
+    "id": "j9mr6qah",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Chad Gable",
+    "points": 55
+},
+{
+    "id": "3ln2j",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Drew McIntyre",
+    "points": 90
+},
+{
+    "id": "j9mrarh7",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Sunil Singh",
+    "points": 22
+},
+{
+    "id": "j9mrb3m1",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Samir Singh",
+    "points": 23
+},
+{
+    "id": "j9mr6qcn",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Natalya",
+    "points": 89
+},
+{
+    "id": "j9mr6qbo",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Baron Corbin",
+    "points": 83
+},
+{
+    "id": "j9mry4ju",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Bobby Roode",
+    "points": 88
+},
+{
+    "id": "j9mr6qb0",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Mojo Rawley",
+    "points": 64
+},
+{
+    "id": "j9mse277",
+    "brandId": null,
+    "male": true,
+    "name": "Zack Ryder",
+    "points": 60
+},
+{
+    "id": "j9mrz5h7",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Fandango",
+    "points": 50
+},
+{
+    "id": "j9msdef9",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Tyler Breeze",
+    "points": 50
+},
+{
+    "id": "j9msdp6q",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Viktor",
+    "points": 40
+},
+{
+    "id": "456yhgfdr5tg",
+    "brandId": null,
+    "male": true,
+    "name": "Mike Kanellis",
+    "points": 79
+},
+{
+    "id": "3456tyhgfr",
+    "brandId": null,
+    "male": false,
+    "name": "Maria Kanellis",
+    "points": 49
+},
+{
+    "id": "j9ms16cw",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Konnor",
+    "points": 33
+},
+{
+    "id": "bblshly",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Bobby Lashley",
+    "points": 88
+},
+{
+    "id": "j9mr6qbn",
+    "brandId": null,
+    "male": true,
+    "name": "Dolph Ziggler",
+    "points": 72
+},
+{
+    "id": "3ln2b",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Akam",
+    "points": 87
+},
+{
+    "id": "3ln2v",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Rezar",
+    "points": 88
+},
+{
+    "id": "3ln2w",
+    "brandId": "MNR",
+    "male": true,
+    "name": "No Way Jose",
+    "points": 75
+},
+{
+    "id": "undertaker",
+    "brandId": null,
+    "male": true,
+    "name": "Undertaker",
+    "points": 90
+},
+{
+    "id": "j9mr6qal",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Bo Dallas",
+    "points": 49
+},
+{
+    "id": "j9mr6qan",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Curt Hawkins",
+    "points": 1
+},
+{
+    "id": "j9mr6qao",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Curtis Axel",
+    "points": 23
+},
+{
+    "id": "stephMcMahon",
+    "brandId": null,
+    "male": false,
+    "name": "Stephanie McMahon",
+    "points": 23
+},
+{
+    "id": "rondaRousey",
+    "brandId": null,
+    "male": false,
+    "name": "Ronda Rousey",
+    "points": 90
+},
+{
+    "id": "j9mr6qaq",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Dash Wilder",
+    "points": 51
+},
+{
+    "id": "j9mr6qas",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Heath Slater",
+    "points": 35
+},
+{
+    "id": "j9mr6qav",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Rhyno",
+    "points": 66
+},
+{
+    "id": "j9mr6qaw",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Titus O Neil",
+    "points": 62
+},
+{
+    "id": "hhh",
+    "brandId": null,
+    "male": true,
+    "name": "HHH",
+    "points": 90
+},
+{
+    "id": "j9mr6qbr",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Jinder Mahal",
+    "points": 87
+},
+{
+    "id": "j9mr6qb1",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Apollo Crews",
+    "points": 67
+},
+{
+    "id": "j9mr6qb4",
+    "brandId": null,
+    "male": true,
+    "name": "Bray Wyatt",
+    "points": 76
+},
+{
+    "id": "LivMorgan",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Liv Morgan",
+    "points": 65
+},
+{
+    "id": "SarahLogan",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Sarah Logan",
+    "points": 75
+},
+{
+    "id": "jkrrmndr",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Ruby Riott",
+    "points": 80
+},
+{
+    "id": "j9mr6qb6",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Elias",
+    "points": 70
+},
+{
+    "id": "j9mr6qb8",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Finn Balor",
+    "championshipId": "j9nfpobg",
+    "points": 93
+},
+{
+    "id": "j9msbxog",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Sami Zayn",
+    "points": 79
+},
+{
+    "id": "j9mr6qbf",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Karl Anderson",
+    "points": 64
+},
+{
+    "id": "j9mr6qbi",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Scott Dawson",
+    "points": 65
+},
+{
+    "id": "j9mr6qbv",
+    "brandId": null,
+    "male": true,
+    "name": "Brock Lesnar",
+    "points": 99
+},
+{
+    "id": "j9mr6qbw",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Roman Reigns",
+    "championshipId": null,
+    "points": 94
+},
+{
+    "id": "j9mr6qc0",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Braun Strowman",
+    "points": 95
+},
+{
+    "id": "j9mr6qc1",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Matt Hardy",
+    "points": 79
+},
+{
+    "id": "j9mr6qcb",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Alicia Fox",
+    "points": 50
+},
+{
+    "id": "j9mr6qcc",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Dana Brooke",
+    "points": 53
+},
+{
+    "id": "j9mr6qce",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Mickie James",
+    "points": 79
+},
+{
+    "id": "j9mr6qch",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Bayley",
+    "points": 80
+},
+{
+    "id": "j9mr6qci",
+    "brandId": null,
+    "male": false,
+    "name": "Nia Jax",
+    "points": 89
+},
+{
+    "id": "j9mr6qco",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Alexa Bliss",
+    "points": 87
+},
+{
+    "id": "3ln3b",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Ember Moon",
+    "points": 85
+},
+{
+    "id": "j9mr6qcp",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Sasha Banks",
+    "points": 88
+},
+{
+    "id": "j9mrwbsa",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Seth Rollins",
+    "championshipId": "j9nfpobe",
+    "points": 90
+},
+{
+    "id": "j9ms0hpg",
+    "brandId": null,
+    "male": true,
+    "name": "Kane",
+    "points": 90
+},
+{
+    "id": "j9ms1ien",
+    "brandId": null,
+    "male": true,
+    "name": "Kurt Angle",
+    "points": 70
+},
+{
+    "id": "j9mr6qbc",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Jeff Hardy",
+    "points": 88
+},
+{
+    "id": "SonyaDeville",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Sonya Deville",
+    "points": 70
+},
+{
+    "id": "MandyRose",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Mandy Rose",
+    "points": 80
+},
+{
+    "id": "j9mr6qc3",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Samoa Joe",
+    "championshipId": "wweUSW",
+    "points": 97
+},
+{
+    "id": "3ln2t",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Killian Dain",
+    "points": 86
+},
+{
+    "id": "3ln2k",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Eric Young",
+    "points": 85
+},
+{
+    "id": "j9mr6qcj",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Asuka",
+    "points": 95
+},
+{
+    "id": "j9mr6qb5",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Cesaro",
+    "points": 84
+},
+{
+    "id": "j9mr6qc4",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Sheamus",
+    "points": 84
+},
+{
+    "id": "j9mr6qat",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Luke Gallows",
+    "points": 65
+},
+{
+    "id": "3ln2e",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Andrade",
+    "points": 89
+},
+{
+    "id": "3ln34",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Zelina Vega",
+    "points": 50
+},
+{
+    "id": "3ln37",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Peyton Royce",
+    "points": 75
+},
+{
+    "id": "3ln38",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Nikki Cross",
+    "points": 78
+},
+{
+    "id": "paigeUK",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Paige",
+    "points": 0
+},
+{
+    "id": "j9mr6qaj",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Rowan",
+    "points": 69
+},
+{
+    "id": "j9mr6qax",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Jey Uso",
+    "points": 74
+},
+{
+    "id": "j9mr6qay",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Jimmy Uso",
+    "points": 73
+},
+{
+    "id": "j9mr6qc5",
+    "brandId": "MNR",
+    "male": true,
+    "name": "The Miz",
+    "points": 86
+},
+{
+    "id": "j9mr6qbq",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Randy Orton",
+    "points": 87
+},
+{
+    "id": "j9mr6qbs",
+    "brandId": "SDL",
+    "championshipId": null,
+    "male": true,
+    "name": "Shinsuke Nakamura",
+    "points": 90
+},
+{
+    "id": "j9mr6qbt",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Kevin Owens",
+    "points": 87
+},
+{
+    "id": "j9mr6qbu",
+    "brandId": null,
+    "male": true,
+    "name": "John Cena",
+    "points": 91
+},
+{
+    "id": "j9mr6qby",
+    "brandId": "MNR",
+    "male": true,
+    "name": "AJ Styles",
+    "points": 96
+},
+{
+    "id": "j9mr6qc6",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Rusev",
+    "points": 80
+},
+{
+    "id": "j9mr6qc7",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Lana",
+    "points": 20
+},
+{
+    "id": "j9mr6qc8",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Carmella",
+    "points": 61
+},
+{
+    "id": "j9mr6qc9",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Tamina",
+    "points": 62
+},
+{
+    "id": "j9mr6qcg",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Becky Lynch",
+    "championshipId": "j9nfpobf",
+    "points": 79
+},
+{
+    "id": "456yhgfdr5tg",
+    "brandId": null,
+    "male": true,
+    "name": "Mike Kanellis",
+    "points": 79
+},
+{
+    "id": "3456tyhgfr",
+    "brandId": null,
+    "male": false,
+    "name": "Maria Kanellis",
+    "points": 49
+},
+{
+    "id": "j9mr6qcl",
+    "brandId": "SDL",
+    "championshipId": null,
+    "male": false,
+    "name": "Charlotte Flair",
+    "points": 95
+},
+{
+    "id": "j9mr6qcm",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Naomi",
+    "points": 81
+},
+{
+    "id": "j9mrwzmd",
+    "brandId": null,
+    "male": true,
+    "name": "Aiden English",
+    "points": 66
+},
+{
+    "id": "j9mrxrq8",
+    "brandId": null,
+    "male": true,
+    "name": "Big E",
+    "points": 77
+},
+{
+    "id": "j9mrz5h7",
+    "brandId": null,
+    "male": true,
+    "name": "Fandango",
+    "points": 50
+},
+{
+    "id": "j9ms0wqd",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Kofi Kingston",
+    "championshipId": "wweC",
+    "points": 92
+},
+{
+    "id": "j9mscf7q",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Shelton Benjamin",
+    "points": 80
+},
+{
+    "id": "j9mscnd9",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Sin Cara",
+    "points": 60
+},
+{
+    "id": "dbSDL",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Daniel Bryan",
+    "points": 94
+},
+{
+    "id": "shaneSDL",
+    "brandId": null,
+    "male": true,
+    "name": "Shane McMahon",
+    "points": 80
+},
+{
+    "id": "j9mseg5y",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Xavier Woods",
+    "points": 77
+},
+{
+    "id": "3ln2a",
+    "brandId": "NXT",
+    "championshipId": "NAChamp",
+    "male": true,
+    "name": "Adam Cole",
+    "points": 85
+},
+{
+    "id": "3ln2c",
+    "brandId": "MNR",
+    "championshipId": "j9nf",
+    "male": true,
+    "name": "Aleister Black",
+    "points": 92
+},
+{
+    "id": "3ln2f",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Angelo Dawkins",
+    "points": 87
+},
+{
+    "id": "3ln2g",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Buddy Murphy",
+    "points": 72
+},
+{
+    "id": "3ln2h",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Cezar Bononi",
+    "points": 84
+},
+{
+    "id": "3ln2i",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Danny Burch",
+    "points": 86
+},
+{
+    "id": "3ln2l",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Fabian Aichner",
+    "points": 86
+},
+{
+    "id": "3ln2m",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Johnny Gargano",
+    "points": 98
+},
+{
+    "id": "3ln2n",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Kassius Ohno",
+    "points": 80
+},
+{
+    "id": "3ln2o",
+    "brandId": "SDL",
+    "male": true,
+    "name": "Lars",
+    "points": 83
+},
+{
+    "id": "3ln2q",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Velveteen Dream",
+    "points": 89
+},
+{
+    "id": "3ln2r",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Tommaso Ciampa",
+    "points": 88
+},
+{
+    "id": "3lnsdfsfr",
+    "brandId": "MNR",
+    "male": true,
+    "name": "EC3",
+    "points": 88
+},
+{
+    "id": "3lnf3td2r",
+    "brandId": "MNR",
+    "male": true,
+    "name": "Ricochet",
+    "points": 88
+},
+{
+    "id": "3lf4f3n2s",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Pete Dunne",
+    "championshipId": "ukChamp",
+    "points": 90
+},
+{
+    "id": "3ln2s",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Tyler Bate",
+    "points": 93
+},
+{
+    "id": "3ln2u",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Roderick Strong",
+    "points": 75
+},
+{
+    "id": "3ln2x",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Kyle O'Reilly",
+    "points": 85
+},
+{
+    "id": "3ln2y",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Lio Rush",
+    "points": 66
+},
+{
+    "id": "3ln2z",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Oney Lorcan",
+    "points": 87
+},
+{
+    "id": "3ln30",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Tino Sabbatelli",
+    "points": 70
+},
+{
+    "id": "3ln31",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Tucker Knight",
+    "points": 72
+},
+{
+    "id": "3ln32",
+    "brandId": "NXT",
+    "male": true,
+    "name": "Wesley Blake",
+    "points": 69
+},
+{
+    "id": "3ln33",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Taynara Conti",
+    "points": 70
+},
+{
+    "id": "3ln35",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Vanessa Borne",
+    "points": 80
+},
+{
+    "id": "3ln36",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Shayna Baszler",
+    "championshipId": "j9nfW",
+    "points": 80
+},
+{
+    "id": "3ln39",
+    "brandId": "MNR",
+    "male": false,
+    "name": "Lacey Evans",
+    "points": 70
+},
+{
+    "id": "3ln3a",
+    "brandId": "SDL",
+    "male": false,
+    "name": "Kairi Sane",
+    "points": 89
+},
+{
+    "id": "3ln3c",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Billie Kay",
+    "points": 78
+},
+{
+    "id": "3ln3d",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Bianca Belair",
+    "points": 85
+},
+{
+    "id": "3ln3e",
+    "brandId": "NXT",
+    "male": false,
+    "name": "Aliyah",
+    "points": 65
+}
+]

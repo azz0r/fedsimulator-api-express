@@ -1,0 +1,103 @@
+[{
+    "id": "j9nf",
+    "name": "NXT Champ",
+    "brandId": "NXT",
+    "male": true,
+    "rank": 2,
+    "color": "#ffffff",
+    "backgroundColor": "#261c11"
+},
+{
+    "id": "ukChamp",
+    "name": "UK Champ",
+    "brandId": "NXT",
+    "male": true,
+    "rank": 1,
+    "color": "#ffffff",
+    "backgroundColor": "#15247c"
+},
+{
+    "id": "j9nfW",
+    "name": "NXT Women's Champ",
+    "brandId": "NXT",
+    "rank": 2,
+    "male": false,
+    "color": "#ffffff",
+    "backgroundColor": "#b5a092"
+},
+{
+    "id": "NAChamp",
+    "name": "NXT North American Championship",
+    "brandId": "NXT",
+    "rank": 1,
+    "male": false,
+    "color": "#e6deda",
+    "backgroundColor": "#573030"
+},
+{
+    "id": "j9nfpobe",
+    "name": "Universal Champ",
+    "rank": 5,
+    "brandId": "MNR",
+    "male": true,
+    "color": "#ffffff",
+    "backgroundColor": "#d7182a"
+},
+{
+    "id": "j9nfpobf",
+    "name": "Raw Womens Champ",
+    "rank": 4,
+    "brandId": "MNR",
+    "male": false,
+    "color": "#eb1826",
+    "backgroundColor": "#ffffff"
+},
+{
+    "id": "j9nfpobg",
+    "name": "Intercontinental Champ",
+    "rank": 3,
+    "brandId": "MNR",
+    "male": true,
+    "color": "#000000",
+    "backgroundColor": "#ffffff"
+},
+{
+    "id": "wweC",
+    "name": "WWE Champ",
+    "rank": 5,
+    "brandId": "SDL",
+    "male": true,
+    "tag": false,
+    "color": "#ffffff",
+    "backgroundColor": "#404040"
+},
+{
+    "id": "wweCW",
+    "name": "Smackdowns Womens Champ",
+    "rank": 4,
+    "brandId": "SDL",
+    "male": false,
+    "tag": false,
+    "color": "#3b30fe",
+    "backgroundColor": "#ffffff"
+},
+{
+    "id": "wweUSW",
+    "name": "US Champ",
+    "rank": 3,
+    "brandId": "SDL",
+    "male": true,
+    "tag": false,
+    "color": "#E4E2E3",
+    "backgroundColor": "#042195"
+},
+{
+    "id": "j9nfpobh",
+    "name": "Cruiserweight Champ",
+    "rank": 2,
+    "brandId": "TFL",
+    "male": true,
+    "color": "#ffffff",
+    "backgroundColor": "#5A49CD"
+}
+]

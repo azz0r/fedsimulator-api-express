@@ -1,0 +1,25 @@
+[{
+    "id": "MNR",
+    "name": "Raw",
+    "color": "#ffffff",
+    "backgroundColor": "#ac2e37"
+},
+{
+    "id": "SDL",
+    "name": "Smackdown Live",
+    "color": "#ffffff",
+    "backgroundColor": "#4341a0"
+},
+{
+    "id": "TFL",
+    "name": "205 Live",
+    "color": "#ffffff",
+    "backgroundColor": "#750de5"
+},
+{
+    "id": "NXT",
+    "name": "NXT",
+    "color": "#000000",
+    "backgroundColor": "#ccaa4e"
+}
+]
