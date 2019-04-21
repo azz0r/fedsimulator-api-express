@@ -6,9 +6,9 @@ const bodyParser = require("body-parser");
 const fs = require("fs");
 
 // import data
-const championships = JSON.parse(fs.readFileSync("championships.json", "utf8"));
-const brands = JSON.parse(fs.readFileSync("brands.json", "utf8"));
-const wrestlers = JSON.parse(fs.readFileSync("wrestlers.json", "utf8"));
+const championships = JSON.parse(fs.readFileSync("./championships.json", "utf8"));
+const brands = JSON.parse(fs.readFileSync("./brands.json", "utf8"));
+const wrestlers = JSON.parse(fs.readFileSync("./wrestlers.json", "utf8"));
 
 // initiate instances
 const app = express();
